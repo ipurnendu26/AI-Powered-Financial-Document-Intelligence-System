@@ -6,7 +6,7 @@ from datetime import datetime
 DB_CONFIG = {
     "dbname": "finance_db",
     "user": "postgres",
-    "password": "purnenduK@123",  # the one you used with psql
+    "password": "",  # the one you used with psql
     "host": "localhost",
     "port": 5432
 }
